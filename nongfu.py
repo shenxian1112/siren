@@ -2,8 +2,8 @@
 导入base64
 导入时间
 
-base_url="http://www.plcly.cn:97/api/bd"
-AccountNumber="农夫山泉牛逼"#固定的账号
+base_url="http://xxx/api/bd"
+AccountNumber="牛逼"#固定的账号
 
 user_cardIds=[]
 
