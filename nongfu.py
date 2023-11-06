@@ -11,7 +11,7 @@ user_cardIds=[]
 打印("请输入用户数据，格式为：名字身份证号，每行一条数据，输入完成后请输入空行：")
 当为True时：
 input_line=input()
-如果不是input_line：
+如果不是输入线(_L)：
 打破
 用户，CardID=input_line.split()
 user_cardIds.append((用户，CardID))
@@ -32,7 +32,7 @@ image_data=base64.b64decode(结果)
 image_path=f"{user}_{CardID}.jpg"
 将打开(image_path，"wb")作为文件：
 file.write(image_data)
-打印(f”图片已保存：{image_path}")
+打印(f"图片已保存：{image_path}")
 其他：
 打印("未检测到结果")
 
