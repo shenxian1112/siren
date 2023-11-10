@@ -1,0 +1,15 @@
+POST /bdc/query HTTP/1.1
+Origin: http://ydzt.jszwfw.gov.cn
+Accept: */*
+X-Requested-With: com.eg.android.AlipayGphone
+User-Agent: Mozilla/5.0 (Linux; U; Android 13; zh-CN; V2219A Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 UWS/3.22.2.66 Mobile Safari/537.36 UCBS/3.22.2.66_230817192043 NebulaSDK/1.8.100112 Nebula AlipayDefined(nt:5G,ws:360|0|3.0,ac:sp) AliApp(AP/10.5.20.8100) AlipayClient/10.5.20.8100 Language/zh-Hans useStatusBar/true isConcaveScreen/false Region/CNAriver/1.0.0 MiniProgram APXWebView
+Referer: http://ydzt.jszwfw.gov.cn/jmopen_files/webapp/html5/jsbdcqscx/view/estate_ownership.html?token=94e75aeae17b4cb5883f34e2d16ee6572c88a26d70e64612a57ba6a80768f0dd&uuid=P202311071636464008467756&uid=2088432444261282&usertype=1
+x-mass-tappid: 2018062060350751
+Accept-Encoding: gzip
+Accept-Language: zh-CN,en-US;q=0.9
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 251
+Host: 180.101.234.22:6002
+Connection: Keep-Alive
+
+userName=%E5%A7%9A%E6%99%A8%E6%99%A8&userId=320829199201141646&location=%E6%B1%9F%E8%8B%8F%E7%9C%81+%E6%B7%AE%E5%AE%89%E5%B8%82+%E5%B8%82%E6%9C%AC%E7%BA%A7&locationAll=%E6%B1%9F%E8%8B%8F%E7%9C%81+%E6%B7%AE%E5%AE%89%E5%B8%82+%E5%B8%82%E6%9C%AC%E7%BA%A7
